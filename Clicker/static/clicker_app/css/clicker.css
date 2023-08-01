@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(40,42,54);
+}
+
+.container .display{
+    color: rgb(255, 255, 255);
+}
